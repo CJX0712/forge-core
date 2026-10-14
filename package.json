@@ -1,0 +1,24 @@
+{
+  "name": "forge-core",
+  "version": "1.0.0",
+  "description": "零依赖、可验证的世界级 AI 数值内核：autograd / SVD / Jacobi 特征分解 / k-means / GMM-EM / PCA / 注意力。集大成于世级算法。作者：晨星",
+  "main": "forge-core.js",
+  "scripts": {
+    "test": "node test.js",
+    "demo": "node build-demo.js"
+  },
+  "author": "晨星",
+  "license": "MIT",
+  "keywords": [
+    "ai",
+    "machine-learning",
+    "autograd",
+    "svd",
+    "pca",
+    "gmm",
+    "kmeans",
+    "attention",
+    "numerical",
+    "verifiable"
+  ]
+}
